@@ -19,14 +19,15 @@ Here are some ideas to get you started:
 # 👨🏾‍💻 Profile
 > Welcome to the GitHub home of Al Augustin. Front-end developer from Toronto, CA.
 
+<!--
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#profile">Profile</a>
-      <!-- <ul>
+       <ul>
         <li><a href="#built-with">Built With</a></li>
-      </ul> -->
+      </ul>
     </li>
     <li><a href="#stats">Stats</a></li>
     <li><a href="#tools">Tools</a></li>
@@ -39,7 +40,8 @@ Here are some ideas to get you started:
     </li>
   </ol>
 </details>
-
+-->
+ 
 ### 📊 Stats
 <a href="https://github.com/ALAUGUSTIN">
     <img height="180em"
