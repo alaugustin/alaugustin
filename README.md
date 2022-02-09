@@ -83,6 +83,5 @@ I am [Al Augustin](https://alaugustin.com) and I'm a front-end developer from To
 - <a href="https://github.com/alaugustin">GitHub</a>
 
 #### 🎊 Personal
-- <a href="http://www.alaugustin.com/">Website</a>
-- <a href="https://twitter.com/augustinaa">Twitter</a>
+- <a href="http://www.alaugust.in/">Website</a>
 - <a href="https://www.last.fm/user/o1k">Last.fm</a>
