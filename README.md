@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQH9h4rLFB1FuQ/profile-displayphoto-shrink_200_200/0/1516305327322?e=1629331200&v=beta&t=nZlnRYKXf_sX7iCr8M_niHbYEEu92yAvRI1WPEKLdYg" style="border-radius:50%" align="right" />
+<img src="http://www.alaugust.in/img/al_headshot.jpeg" style="border-radius:50%" align="right" />
 
 # 💻 dot_com
 > Welcome to the GitHub home of Al Augustin.
