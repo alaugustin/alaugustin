@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <img src="http://www.alaugust.in/img/al_headshot.jpeg" style="border-radius:50%" align="right" />
 
-# 💻 dot_com
-> Welcome to the GitHub home of Al Augustin.
+# 👨🏾‍💻 Profile
+> Welcome to the GitHub home of Al Augustin. Front-end developer from Toronto, CA.
 
 <details open="open">
   <summary>Table of Contents</summary>
@@ -39,10 +39,6 @@ Here are some ideas to get you started:
     </li>
   </ol>
 </details>
-
-## 👨🏾‍💻 Profile
-Hi there 👋&nbsp;!
-I am [Al Augustin](https://alaugustin.com) and I'm a front-end developer from Toronto, CA.
 
 ### 📊 Stats
 <a href="https://github.com/ALAUGUSTIN">
