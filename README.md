@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=alaugustin" alt="alaugustin" />
 <!--
 **alaugustin/alaugustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -83,3 +82,7 @@ Here are some ideas to get you started:
 #### 🎊 Personal
 - <a href="http://www.alaugust.in/">Website</a>
 - <a href="https://www.last.fm/user/o1k">Last.fm</a>
+
+<a href="https://github.com/alaugustin/alaugustin" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alaugustin/alaugustin?label=profile%20updated&style=flat-square"></a>
+
+<img src="https://komarev.com/ghpvc/?username=alaugustin" alt="alaugustin" />
