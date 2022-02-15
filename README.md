@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 -->
  
 ### 📊 Stats
-<a href="https://github.com/ALAUGUSTIN">
+<a href="https://github.com/alaugustin">
+  <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=alaugustin&theme=react&border=61dafb&hide_border=true" alt="alaugustin" />
     <img height="180em"
         src="https://github-readme-stats.vercel.app/api?username=ALAUGUSTIN&theme=dark&show_icons=true" />
     <img height="180em"
