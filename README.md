@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 <!--
 **alaugustin/alaugustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +17,7 @@ Here are some ideas to get you started:
 <img src="http://www.alaugust.in/img/al_headshot.jpeg" style="border-radius:50%" align="right" />
 
 # 👨🏾‍💻 Profile
+
 > Welcome to the GitHub home of Al Augustin. Front-end developer from Toronto, CA.
 
 <!--
@@ -40,16 +42,30 @@ Here are some ideas to get you started:
   </ol>
 </details>
 -->
- 
-### 📊 Stats
 
-  <div><img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=alaugustin&theme=dark&border=61dafb&hide_border=true" alt="alaugustin" /></div>  
-  <div><img height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=ALAUGUSTIN&theme=dark&show_icons=true" /></div>
-  <div><img height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALAUGUSTIN&theme=dark&layout=compact" /></div>
+<!-- ### 📊 Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alaugustin&show_icons=true&include_all_commits=true&theme=radical" alt="alaugustin's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaugustin&layout=compact&theme=radical" /> -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaugustin&theme=github_dark)
+
+#### Streaks
+
+<img width="400rem" src="https://github-readme-streak-stats.herokuapp.com/?user=alaugustin&theme=dark&border=61dafb&hide_border=true" alt="alaugustin" />
+
+#### Languages
+
+<img width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALAUGUSTIN&theme=dark&layout=compact" />
+
+#### Stats
+
+<img width="400rem" src="https://github-readme-stats.vercel.app/api?username=ALAUGUSTIN&theme=dark&show_icons=true" />
+
+---
 
 ### 🧰 Tools
+
 <table style="text-align: center; border-collapse: collapse;">
     <tr>
         <td><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></td>
@@ -73,6 +89,7 @@ Here are some ideas to get you started:
 ### 🔗 Links
 
 #### 💼 Professional
+
 - <a href="https://app.box.com/s/d1yoc5bcx6w4m637kap71bm3el5jrtx5">CV</a>
 - <a href="https://ca.linkedin.com/in/alaugustin">LinkedIn</a>
 - <a href="https://codepen.io/alaugustin/pens/popular">Codepen</a>
@@ -80,11 +97,10 @@ Here are some ideas to get you started:
 - <a href="https://github.com/alaugustin">GitHub</a>
 
 #### 🎊 Personal
+
 - <a href="http://www.alaugust.in/">Website</a>
 - <a href="https://www.last.fm/user/o1k">Last.fm</a>
 
 <a href="https://github.com/alaugustin/alaugustin" target="_blank">
   <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alaugustin/alaugustin?label=profile%20updated&style=flat-square"> <img src="https://komarev.com/ghpvc/?username=alaugustin" alt="alaugustin" />
 </a>
-
-
