@@ -43,7 +43,7 @@ Here are some ideas to get you started:
  
 ### 📊 Stats
 <a href="https://github.com/alaugustin">
-  <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=alaugustin&theme=react&border=61dafb&hide_border=true" alt="alaugustin" />
+  <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=alaugustin&theme=dark&border=61dafb&hide_border=true" alt="alaugustin" />
     <img height="180em"
         src="https://github-readme-stats.vercel.app/api?username=ALAUGUSTIN&theme=dark&show_icons=true" />
     <img height="180em"
@@ -84,6 +84,8 @@ Here are some ideas to get you started:
 - <a href="http://www.alaugust.in/">Website</a>
 - <a href="https://www.last.fm/user/o1k">Last.fm</a>
 
-<a href="https://github.com/alaugustin/alaugustin" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alaugustin/alaugustin?label=profile%20updated&style=flat-square"></a>
+<a href="https://github.com/alaugustin/alaugustin" target="_blank">
+  <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alaugustin/alaugustin?label=profile%20updated&style=flat-square"> <img src="https://komarev.com/ghpvc/?username=alaugustin" alt="alaugustin" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=alaugustin" alt="alaugustin" />
+
