@@ -101,6 +101,9 @@ Here are some ideas to get you started:
 - <a href="http://www.alaugust.in/">Website</a>
 - <a href="https://www.last.fm/user/o1k">Last.fm</a>
 
+#### My Octo cat
+<img width="400rem" src="http://www.alaugust.in/img/octocat.png" alt="octo cat" />
+
 <a href="https://github.com/alaugustin/alaugustin" target="_blank">
   <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alaugustin/alaugustin?label=profile%20updated&style=flat-square"> <img src="https://komarev.com/ghpvc/?username=alaugustin" alt="alaugustin" />
 </a>
