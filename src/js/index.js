@@ -1,11 +1,11 @@
-import content from './data';
-
 /* -------------------- new JS template below -------------------- */
 let aaaApp = {
-  version: '2.0.0',
-  author: 'Al Augustin',
-  project: 'Al Augustin homepage',
-  projectDate: '2023',
+  projectData: {
+    version: '2.0.0',
+    author: 'Al Augustin',
+    project: 'Al Augustin homepage',
+    projectDate: '2023',
+  },
 
   // -------------------- INITIALIZATION --------------------
   init: function () {
@@ -13,7 +13,7 @@ let aaaApp = {
 
     // GLOBAL VARIABLES --------------------
     context.config = {
-      currentYear: content.currentYear
+      currentYear: new Date().getFullYear()
     };
 
     // CALL DOM INVOKING FUNCTIONS HERE --------------------
@@ -27,7 +27,7 @@ let aaaApp = {
 
   footer: () => {
     const siteConfig = aaaApp.config;
-    const footerYearHolder = document.getElementById('footerYear');
+    const footerYearHolder = document.getElementById('currentYear');
 
     footerYearHolder.textContent = `- ${siteConfig.currentYear}`;
   },
@@ -35,7 +35,7 @@ let aaaApp = {
   // -------------------- HANDLE ALL PAGE LEVEL EVENTS --------------------
   eventHandlers: () => {
     const siteConfig = aaaApp.config;
-    console.log({siteConfig});
+    console.log({ siteConfig });
   },
 };
 

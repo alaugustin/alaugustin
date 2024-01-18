@@ -5,25 +5,17 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
   <meta name="keywords" content="" />
-
   <meta name="description" content="" />
-
   <meta property="og:type" content="website">
-
   <meta property="og:title" content="Al Augustin | UI/UX Developer">
-
   <meta property="og:image" content="">
-
   <meta property="og:description" content="">
-
   <meta property="og:url" content="https://www.alaugust.in/">
-
   <meta property="og:site_name" content="Al Augustin | UI/UX Developer">
 
   <title>Al Augustin | UI/UX Developer</title>
-  <link href="./css/style.css" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
 <body>
@@ -31,27 +23,80 @@
   <div id="allHolder" class="flex flex-col h-screen">
     <header class="bg-darkModBlue">
       <div
-        class="my-10 md:my-16 max-w-5xl mx-auto px-4 lg:p-0 flex flex-col md:flex-row">
-        heading</div>
+        class="my-10 md:my-4 max-w-5xl mx-auto px-4 lg:p-0 flex flex-col md:flex-row">
+
+        <h1 class="text-6xl">Al Augustin</h1>
+
+      </div>
     </header>
 
     <main class="grow shrink-0 basis-auto">
-      <section class="mt-12 md:mt-14 mb-px">
+      <section class="mt-4 md:mt-14 mb-px">
         <div class="max-w-5xl mx-auto px-4 lg:p-0 flex flex-col md:flex-row">
-          <div class="basis-full md:pr-4 md:basis-7/12">
-            main section
+          <div class="basis-full flex flex-col">
+
+            <figure
+              class="md:flex bg-slate-100 rounded-xl p-8 md:p-0 dark:bg-slate-800 overflow-hidden mb-16 md:pr-4 md:basis-7/12 ">
+              <img
+                class="mx-auto md:mx-0 w-24 h-24 md:w-56 md:h-56 md:rounded-none rounded-full"
+                src="./img/al_headshot.jpeg" alt="Al Augustin headshot"
+                width="200" height="200">
+
+              <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
+                <blockquote class="text-lg text-slate-100">
+                  <h2>Greetings! My name is Al&nbsp;Augustin</h2>
+                </blockquote>
+
+                <figcaption class="font-medium">
+                  <div class="text-sky-500 dark:text-sky-400">
+                    UI/UX Developer
+                  </div>
+                  <div class="text-slate-700 dark:text-slate-500">
+                    HTML5 | CSS3 | ES6
+                  </div>
+                </figcaption>
+              </div>
+            </figure>
+
+            <h2 class="text-4xl">
+              Welcome to my web site
+              <!-- <span>Guaranteed to work on all modern and outdated browsers ;).</span> -->
+            </h2>
+
+            <p>
+              I am a technically sound developer based in Toronto with over 10
+              years of experience in the field.
+            </p>
           </div>
         </div>
       </section>
     </main>
 
-    <footer class="pb-4 pt-8 mt-12 md:mt-14 bg-lightGrayBlue text-mainBlack">
+    <footer class="pb-4 pt-8 bg-lightGrayBlue text-mainBlack">
       <div class="max-w-5xl mx-auto px-4 lg:p-0 ">
-        &copy; 2006 <span id="footerYear"></span> Al Augustin
+        <ul class="flex flex-row justify-between font-bold text-xs mb-16">
+          <li class="foo"><a href="https://app.box.com/s/d1yoc5bcx6w4m637kap71bm3el5jrtx5"
+              class="inline-block rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-center font-medium text-white hover:bg-indigo-700" target="_blank">CV</a></li>
+          <li class="foo"><a href="https://ca.linkedin.com/in/alaugustin"
+              class="inline-block rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-center font-medium text-white hover:bg-indigo-700" target="_blank">LinkedIn</a></li>
+          <li class="foo"><a href="https://codepen.io/alaugustin/pens/popular"
+              class="inline-block rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-center font-medium text-white hover:bg-indigo-700" target="_blank">Codepen</a></li>
+          <li class="foo"><a href="https://stackoverflow.com/users/1760096/al-augustin"
+              class="inline-block rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-center font-medium text-white hover:bg-indigo-700" target="_blank">Stack Overflow</a></li>
+          <li class="foo"><a href="https://github.com/alaugustin" class="inline-block rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-center font-medium text-white hover:bg-indigo-700" target="_blank">GitHub</a>
+          </li>
+          <li class="foo"><a href="https://twitter.com/augustinaa"
+              class="inline-block rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-center font-medium text-white hover:bg-indigo-700" target="_blank">Twitter</a></li>
+          <li class="foo"><a href="https://www.last.fm/user/o1k" class="inline-block rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-center font-medium text-white hover:bg-indigo-700" target="_blank">Last.fm</a>
+          </li>
+        </ul>
+        <div>&copy; 2011 <span id="currentYear"></span> Al Augustin</div>
       </div>
     </footer>
   </div>
   <!-- END SLUG -->
+
+  <script src="js/index.js"></script>
 </body>
 
 </html>
