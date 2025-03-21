@@ -90,8 +90,8 @@ Here are some ideas to get you started:
 
 #### 💼 Professional
 
-- <a href="https://app.box.com/s/d1yoc5bcx6w4m637kap71bm3el5jrtx5">CV</a>
-- <a href="https://ca.linkedin.com/in/alaugustin">LinkedIn</a>
+<!--- <a href="https://app.box.com/s/d1yoc5bcx6w4m637kap71bm3el5jrtx5">CV</a>
+- <a href="https://ca.linkedin.com/in/alaugustin">LinkedIn</a>-->
 - <a href="https://codepen.io/alaugustin/pens/popular">Codepen</a>
 - <a href="https://stackoverflow.com/users/1760096/al-augustin">Stack Overflow</a>
 - <a href="https://github.com/alaugustin">GitHub</a>
@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 #### 🎊 Personal
 
 - <a href="http://www.alaugust.in/">Website</a>
-- <a href="https://www.last.fm/user/o1k">Last.fm</a>
+- <a href="https://www.last.fm/user/o1k/listening-report">Last.fm</a>
 
 #### My Octo cat
 <img width="400rem" src="http://www.alaugust.in/img/octocat.png" alt="octo cat" />
